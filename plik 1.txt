@@ -1,1 +1,3 @@
 To jest plik 1
+
+zmiana 1
