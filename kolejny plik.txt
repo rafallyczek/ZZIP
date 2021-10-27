@@ -1,1 +1,3 @@
 To jest kolejny plik.
+
+zmiana tylko w nowym pliku
